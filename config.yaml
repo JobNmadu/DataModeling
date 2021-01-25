@@ -1,7 +1,7 @@
-baseURL: https://example.com/
+baseURL: https://jobnmadu.rbind.io/
 languageCode: en
 defaultContentLanguage: en
-title: Stip
+title: Modeling to develop...
 theme: stip-hugo
 disableKinds:
   - page
@@ -9,17 +9,20 @@ disableKinds:
   - taxonomy
   - taxonomyTerm
 Author:
-  bio: Professional coffee drinker
-  name: Jane Doe
+  bio: Professor of Agricultural Economics
+  name: Job Nmadu
 params:
   links:
     - icon: envelope
       iconset: fas
       title: E-mail
-      url: mailto:mail@example.org
+      url: mailto:job.nmadu@gmail.com
     - icon: github
       title: Github
-      url: https://github.com/
+      url: https://github.com/JobNmadu
     - icon: twitter
       title: Twitter
-      url: https://twitter.com/
+      url: https://twitter.com/JobNmadu
+    - icon: linkedin
+      title: LinkedIn
+      url: https://www.linkedin.com/in/jobnmadu
