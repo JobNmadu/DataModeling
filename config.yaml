@@ -32,4 +32,7 @@ params:
     - icon: blogger
       title: Blogger
       url: https://jobnmadu.blogspot.com/
-
+    - icon: id
+      title: ORCID iD
+      url: https://orcid.org/0000-0002-1320-8957
+      
