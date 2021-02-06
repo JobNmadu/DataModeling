@@ -34,8 +34,7 @@ params:
       url: https://jobnmadu.blogspot.com/
     - icon: orcid
       title: ORCID iD
-      url: <a href="https://orcid.org/0000-0002-1320-8957">
-      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-      https://orcid.org/0000-0002-1320-8957
-      </a>
+      url: <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+           https://orcid.org/0000-0002-1320-8957
+           </a>
       
