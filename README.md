@@ -1,4 +1,6 @@
 # DataModeling
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c42106ff-e40a-40b1-8a1b-833dc042c8cf/deploy-status)](https://app.netlify.com/sites/jobnmadu/deploys)
+[![Netlify
+Status](https://api.netlify.com/api/v1/badges/35759360-85c9-4db9-95ae-d691c181c15b/deploy-status)](https://app.netlify.com/sites/jobnmadu/deploys)
+
