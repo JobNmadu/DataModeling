@@ -3,8 +3,6 @@ languageCode: en
 defaultContentLanguage: en
 title: Modeling to develop...
 theme: stip-hugo
-HeaderUsername = "overlord"
-HeaderHostname = "jobnmadu.com"
 disableKinds:
   - page
   - section
@@ -14,11 +12,6 @@ Author:
   bio: Professor of Agricultural Economics
   name: Job Nmadu
 params:
-  [menu]
-    [[menu.header]]
-      name = "posts"
-      weight = 0
-      url = "/posts"
   links:
     - icon: envelope
       iconset: fas
