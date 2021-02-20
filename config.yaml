@@ -32,7 +32,7 @@ params:
     - icon: blogger
       title: Blogger
       url: https://jobnmadu.blogspot.com/
-    - url: https://github.com/JobNmadu/DataModeling/blob/main/themes/stip-hugo/static/images/orcid1.png
+    - icon: https://github.com/JobNmadu/DataModeling/blob/main/themes/stip-hugo/static/images/orcid1.png
       title: ORCID iD
       url: https://orcid.org/0000-0002-1320-8957      
     - icon: google scholar
