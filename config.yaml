@@ -3,6 +3,8 @@ languageCode: en
 defaultContentLanguage: en
 title: Modeling to develop...
 theme: stip-hugo
+HeaderUsername = "overlord"
+HeaderHostname = "jobnmadu.com"
 disableKinds:
   - page
   - section
