@@ -35,6 +35,6 @@ params:
     - url: https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16
       title: ORCID iD
       url: https://orcid.org/0000-0002-1320-8957      
-    - icon: google scholar
+    - icon: resume_google_scholar
       title: Scholar
       resume_google_scholar_url: http://scholar.google.com/citations?user=C1_-HgIAAAAJ&hl=en
