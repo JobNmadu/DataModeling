@@ -32,7 +32,7 @@ params:
     - icon: blogger
       title: Blogger
       url: https://jobnmadu.blogspot.com/
-    - icon: https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16
+    - icon: orcid id
       title: ORCID iD
       url: https://orcid.org/0000-0002-1320-8957      
     - icon: google scholar
